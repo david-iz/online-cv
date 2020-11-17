@@ -32,17 +32,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        8 years experience IT Service and Desktop\Laptop hardware\software technician: Os system, image, hardware repair and replace and Software customization.
-        During my job experiance, I had Excellent technical sense practical skills with interesting technologies, Tasks and People.
-        Supporting over 100 user, VMware, Esxi, Linux machine server and windows server
-        incloud VPN, AD, DHCP, Ansible, FTP . part of small SYSTEM&IT group, support win computer's hardware and software  
+        8 years experience IT Service and Desktop\Laptop, hardware\software technician: Os system, image, hardware repair and replace and Software customization.
+        During my job experience, I had Excellent technical sense, practical skills with interesting technologies, Tasks and People.
+        Supporting over 100 users, VMware, Esxi, Linux machine server and windows server.
+        incloud VPN, AD, DHCP, Ansible, FTP .
+        part of small SYSTEM&IT group, support windows computer's, hardware and software.  
          
 education:
     - degree: DevOps
       university: HackerU - Ramat-Gan
       time: 2019 - 2020
       details: |
-        LPI 1 + LPI 2 in Linux Systems with DevOps Training camp. fundamentals of the Linux operating system.
+        LPI 1 + LPI 2 in Linux Systems with DevOps Training camp. fundamentals of Linux operating system.
         Managing Linux servers & Users. DevOps tools - Docker, Kubernetees, Jenkins, Ansible, Git etc. Nginx\Apache Web server, BASH Programming.
         
     - degree: MCSA ,MCITP
@@ -50,16 +51,16 @@ education:
       time: 2011-2012
       details: |
        system and network administrator window's 
-       network management , hardware technician
+       network management , hardware technician.
        
 experiences:
-      role: System and It support
+    - role: System and It support
       time: 2017 - Present
       company: ICL group && Israel Corporation
       details:
         IT and Junior system, supporting users and servers
-        Virtualization VMware servers IT and Managing, install images, troubleshooting, microsoft Os&Office (include Office365, win7/10, win server)
-        hardware and software laptops, printers, servers and Mobile phone's
+        Virtualization, VMware servers IT and Managing, install images, troubleshooting, microsoft Os&Office (include Office365, win7/10, win server)
+        hardware and software laptops, printers, servers and Mobile phone's.
         
     - role: IT and network service technician 
       time: 2016 - 2017
@@ -67,25 +68,25 @@ experiences:
       details: |
         Vmware installion-Managing-activation
         networking
-        Desktop/laptop Hardware/Software technician on HP
-        IT Server Desk technician on LPAM,  Ministry of Interior, SodaStream
+        Desktop/laptop Hardware/Software technician on HP.
+        IT Server Desk technician on LPAM,  Ministry of Interior, SodaStream.
        
     - role: IT and hardware technician
       time: 2014 - 2016
       company: Hewlett Packard enterprise/O.M.S
       details: |
-        Desktop/Laptop hardware technician 
-        IT service 
-        Image installion   
+        Desktop/Laptop hardware technician, 
+        IT service,
+        Image installion.   
          
         
 projects:
     title: Personal projects
     intro: >
-      Project klika over close Lan\Wan network
+      Project klika over close Lan\Wan network.
       compnay project base on Linux Centos-7, Ubuntu 18.04 and AD(Windows), 
-      Includes a variety of servers and servers for functioning company:
-      Proxy, mail, DHCP/DNS, Firewall, Docker, Ansibale, Kubernetes, AD, Open-VPN, switch2osm, Nginx\Apache Wed server, FTP, repos server, PXE  
+      Includes a variety of services and servers for a functioning company:
+      Proxy, mail, DHCP/DNS, Firewall, Docker, Ansible, Kubernetes, AD, Open-VPN, switch2osm, Nginx\Apache Wed server, FTP, repos server, PXE  
 
 skills:
     title: Skills &amp; Proficiency
