@@ -53,10 +53,10 @@ education:
        network management , hardware technician
        
 experiences:
-    - role: System and It support
+      role: System and It support
       time: 2017 - Present
       company: ICL group && Israel Corporation
-      details: |
+      details:
         IT and Junior system, supporting users and servers
         Virtualization VMware servers IT and Managing, install images, troubleshooting, microsoft Os&Office (include Office365, win7/10, win server)
         hardware and software laptops, printers, servers and Mobile phone's
